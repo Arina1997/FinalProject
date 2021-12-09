@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/calculate"
+        android:id="@+id/calculate"
+        android:icon="@drawable/ic_calculate"/>
+    <item android:title="@string/loans"
+        android:id="@+id/loans"
+        android:icon="@drawable/ic_list"/>
+
+</menu>

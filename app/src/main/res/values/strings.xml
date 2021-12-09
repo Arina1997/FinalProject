@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sum_credit">Сумма кредита (руб.):</string>
+    <string name="interest_rate">Процентная ставка (годовая),%:</string>
+    <string name="credit_term">Срок кредита (мес.):</string>
+    <string name="overpayment">Переплата составит (руб):</string>
+    <string name="total_payment">Общая выплата (руб.):</string>
+    <string name="payment">Ежемесячный платеж (руб.):</string>
+    <string name="calculate">Кальулятор</string>
+    <string name="loans">Кредиты</string>
+</resources>
